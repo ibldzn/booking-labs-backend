@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Laboratorium Imunologi",
+    "location": "Lantai 5",
+    "description": "Laboratorium ini digunakan untuk pemeriksaan darah yang bertujuan untuk mendeteksi awal adanya infeksi virus, memperkirakan status imun, dan pemantauan respon pasca vaksinasi.",
+    "images": [
+      "/imunologi/pintu.jpeg",
+      "/imunologi/pic-1.jpeg",
+      "/imunologi/pic-2.jpeg"
+    ]
+  },
+  {
+    "name": "Laboratorium Parasitologi",
+    "location": "Lantai 5",
+    "description": "Laboratorium ini digunakan untuk pemeriksaan identifikasi parasit atau stadium dari parasit baik secara mikroskopis dengan atau tanpa pulasan, biakan, atau imunoesai.",
+    "images": [
+      "/parasitologi/pintu.jpeg",
+      "/parasitologi/pic-1.jpeg",
+      "/parasitologi/pic-2.jpeg"
+    ]
+  },
+  {
+    "name": "Laboratorium Hematologi",
+    "location": "Lantai 5",
+    "description": "Laboratorium ini digunakan untuk analisis pada sampel darah, seperti sifat fisik dan fungsi darah, penanganan sampel, pemeriksaan darah rutin, serta pemeriksaan hematologi klinik lainnya untuk menunjang diagnosis penyakit.",
+    "images": [
+      "/hematologi/pintu.jpeg",
+      "/hematologi/pic-1.jpeg",
+      "/hematologi/pic-2.jpeg"
+    ]
+  },
+  {
+    "name": "Laboratorium Kimia Klinik",
+    "location": "Lantai 5",
+    "description": "Laboratorium ini digunakan untuk pemeriksaan terhadap sample (darah, urin, atau cairan tubuh lain) menggunakan metode reaksi kimia untuk mengetahui zat-zat yang terlarut dalamnya.",
+    "images": []
+  },
+  {
+    "name": "Laboratorium Sitohistoteknologi",
+    "location": "Lantai 6",
+    "description": "Ilmu yang mempelajari tentang preparasi sel-sel dan jaringan tubuh sampai menjadi sediaan mikroskopis yang digunakan untuk mendiagnosa adanya kelainan-kelainan dalam tubuh.",
+    "images": []
+  },
+  {
+    "name": "Laboratorium Kimia Dasar",
+    "location": "Lantai 6",
+    "description": "Laboratorium Kimia Dasar merupakan laboratorium yang kegiatannya meliputi penerapan dasar praktikum kimia, yaitu Penimbangan, Pemipetan, Pelarutan, Pembuatan Larutan Standard, Dan Identifikasi Bahan/Produk Secara Fisik Dan Kimia.",
+    "images": ["/kimdas/pintu.jpeg", "/kimdas/pic-1.jpeg", "/kimdas/pic-2.jpeg"]
+  },
+  {
+    "name": "Laboratorium Biologi Molekular",
+    "location": "Lantai 6",
+    "description": "Laboratorium yang mempelajari dasar molekuler dari aktivitas biologi di dalam dan di antara sel, termasuk sintesis, modifikasi, mekanisme dan interaksi molekuler.",
+    "images": ["/biomol/pintu.jpeg", "/biomol/pic-1.jpeg"]
+  },
+  {
+    "name": "Laboratorium Mikrobiologi dan Bakteriologi",
+    "location": "Lantai 6",
+    "description": "Laboratorium yang mempelajari mikroorganisme. Objek kajiannya biasanya semua makhluk (hidup) yang perlu dilihat dengan mikroskop dan identifikasi bakteri yang menyebabkan penyakit pada manusia.",
+    "images": ["/mikbak/pintu.jpeg", "/mikbak/pic-1.jpeg", "/mikbak/pic-2.jpeg"]
+  },
+  {
+    "name": "Laboratorium Virologi",
+    "location": "Lantai 6",
+    "description": "Laboratorium yang digunakan untuk melakukan pemeriksaan yang berkaitan dengan imunoserologi dan infeksi virus.",
+    "images": [
+      "/virologi/pintu.jpeg",
+      "/virologi/pic-1.jpeg",
+      "/virologi/pic-2.jpeg"
+    ]
+  }
+]
